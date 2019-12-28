@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f22d27d-1769-417f-b442-af8cb8abaaa1" name="Default Changelist" comment="22">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/HillelHomeWorks_ear_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HillelHomeWorks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/META-INF/application.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HillelHomeWorks/Lesson1/task1/Compressor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HillelHomeWorks/Lesson1/task1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HillelHomeWorks/Lesson1/task1/test1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HillelHomeWorks/Lesson1/task2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HillelHomeWorks/Lesson1/task2/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/task1/GzipCompressor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1/task1/ZipCompressor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/task1/Compressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1/task1/Compressor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1/task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/task1/compressed.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\user\IdeaProjects\HillelHomeWorks\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VbxyshSKFHaoSAuNQUCzGmXHJk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson1.task2.Main" />
+      <module name="HillelHomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson1.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson1.task1.Main" />
+      <module name="HillelHomeWorks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <module name="HillelHomeWorks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f22d27d-1769-417f-b442-af8cb8abaaa1" name="Default Changelist" comment="" />
+      <created>1577535853955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577535853955</updated>
+      <workItem from="1577535855466" duration="555000" />
+      <workItem from="1577536454909" duration="643000" />
+      <workItem from="1577537108629" duration="4842000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1577536882060</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577536882060</updated>
+    </task>
+    <task id="LOCAL-00002" summary="22">
+      <created>1577542098107</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577542098107</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="22" />
+    <option name="LAST_COMMIT_MESSAGE" value="22" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577536257572">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1600.0.1600.1170/0.0.1920.1050@0.0.1920.1050" timestamp="1577536257572" />
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1577540661819">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/-1600.0.1600.1170/0.0.1920.1050@0.0.1920.1050" timestamp="1577540661819" />
+    <state x="689" y="314" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577536255009">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="689" y="314" key="#com.intellij.ide.util.TreeClassChooserDialog/-1600.0.1600.1170/0.0.1920.1050@0.0.1920.1050" timestamp="1577536255009" />
+    <state x="640" y="263" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577536403111">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="640" y="263" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-1600.0.1600.1170/0.0.1920.1050@0.0.1920.1050" timestamp="1577536403111" />
+    <state x="562" y="126" key="CommitChangelistDialog2" timestamp="1577542188312">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="562" y="126" key="CommitChangelistDialog2/-1600.0.1600.1170/0.0.1920.1050@0.0.1920.1050" timestamp="1577542188312" />
+    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1577537013300">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog/-1600.0.1600.1170/0.0.1920.1050@0.0.1920.1050" timestamp="1577537013300" />
+    <state x="740" y="282" key="FileChooserDialogImpl" timestamp="1577537116614">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="282" key="FileChooserDialogImpl/-1600.0.1600.1170/0.0.1920.1050@0.0.1920.1050" timestamp="1577537116614" />
+    <state x="819" y="423" key="Github.ShareDialog" timestamp="1577537729897">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="819" y="423" key="Github.ShareDialog/-1600.0.1600.1170/0.0.1920.1050@0.0.1920.1050" timestamp="1577537729897" />
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1577542191021">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/-1600.0.1600.1170/0.0.1920.1050@0.0.1920.1050" timestamp="1577542191021" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1577542191021">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.0.center/-1600.0.1600.1170/0.0.1920.1050@0.0.1920.1050" timestamp="1577542191021" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1577542191021">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.0.left/-1600.0.1600.1170/0.0.1920.1050@0.0.1920.1050" timestamp="1577542191021" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1577542191021">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.0.right/-1600.0.1600.1170/0.0.1920.1050@0.0.1920.1050" timestamp="1577542191021" />
+    <state width="1877" height="342" key="GridCell.Tab.1.bottom" timestamp="1577541041697">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.1.bottom/-1600.0.1600.1170/0.0.1920.1050@0.0.1920.1050" timestamp="1577541041697" />
+    <state width="1877" height="342" key="GridCell.Tab.1.center" timestamp="1577541041697">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.1.center/-1600.0.1600.1170/0.0.1920.1050@0.0.1920.1050" timestamp="1577541041697" />
+    <state width="1877" height="342" key="GridCell.Tab.1.left" timestamp="1577541041697">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.1.left/-1600.0.1600.1170/0.0.1920.1050@0.0.1920.1050" timestamp="1577541041697" />
+    <state width="1877" height="342" key="GridCell.Tab.1.right" timestamp="1577541041697">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.1.right/-1600.0.1600.1170/0.0.1920.1050@0.0.1920.1050" timestamp="1577541041697" />
+    <state x="440" y="102" key="SettingsEditor" timestamp="1577536371163">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="440" y="102" key="SettingsEditor/-1600.0.1600.1170/0.0.1920.1050@0.0.1920.1050" timestamp="1577536371163" />
+    <state x="552" y="262" key="Vcs.Push.Dialog.v2" timestamp="1577537658434">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="262" key="Vcs.Push.Dialog.v2/-1600.0.1600.1170/0.0.1920.1050@0.0.1920.1050" timestamp="1577537658434" />
+    <state x="667" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1577537108908">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="667" y="354" key="com.intellij.ide.util.TipDialog/-1600.0.1600.1170/0.0.1920.1050@0.0.1920.1050" timestamp="1577537108908" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson1/task1/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
